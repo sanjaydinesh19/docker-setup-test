@@ -75,11 +75,13 @@ cd docker-setup-test
 docker compose up --build
 ```
 4. Visit
+   ```
    -> http://localhost:3000 → Node.js
 
    -> http://localhost:8000 → Flask
 
    -> http://localhost:8001 → FastAPI
+   ```
 
 ### Windows
 
